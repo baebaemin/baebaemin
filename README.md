@@ -12,9 +12,10 @@
 <img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=html5" height="30" />
 <img src="https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3" height="30" />
 <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="30" />
-    <img src="https://img.shields.io/badge/-Processing-202020?style=for-the-badge&logo=processingfoundation" height="30" />
-
+<img src="https://img.shields.io/badge/-Processing-202020?style=for-the-badge&logo=processingfoundation" height="30" />
 </span>
+
+</br>
 
 ### ✨ 자주 활용하는 라이브러리 & 프레임워크
 <span>
@@ -34,12 +35,10 @@
   <img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="30" />
     <img src="https://img.shields.io/badge/-R3F-202020?style=for-the-badge&logo=three.js" height="30" />
     <img src="https://img.shields.io/badge/-Jotai-202020?style=for-the-badge&logo=jotai" height="30" />
-
+  <img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="30" />
   <img src="https://img.shields.io/badge/-p5.js-202020?style=for-the-badge&logo=p5.js" height="30" />  
   <img src="https://img.shields.io/badge/-Shader_Park-202020?style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="30" />
-
-
 </span>
 
 <br>
@@ -56,6 +55,12 @@
 <img src="https://img.shields.io/badge/-Mattermost-202020?style=for-the-badge&logo=mattermost" height="30" />
 <img src="https://img.shields.io/badge/-Spline-202020?style=for-the-badge&logo=spline" height="30" />
 </span>
+
+#
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebaemin&hide=jupyter%20notebook,java&layout=compact&theme=dark" style="width: 40%;" />
+</a>
 
 #
 
