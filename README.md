@@ -4,6 +4,18 @@
 전공 경험으로 갖춘 UX/UI 디자인 역량을 바탕으로, 단순 기능 구현만이 아닌 스크린 너머의 사용자 경험을 늘 함께 고민합니다. 🤔<br/>
 현재, 삼성 청년 SW 아카데미에서 실무 & 협업 기반의 다양한 프로젝트들을 진행하면서 매일매일 도전하고 있습니다! 🥁
 
+<span>
+<a href="mailto:hellobaemin@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
+</a>
+<a href="https://open.spotify.com/user/317s6l4heegjzjjltnsjpudvjjau">
+  <img src="https://img.shields.io/badge/-Spotify-202020?style=for-the-badge&logo=spotify" height="25" />
+</a>
+<a href="https://maps.app.goo.gl/F3i8o9Wbp9Ae79e68">
+  <img src="https://img.shields.io/badge/-location-202020?style=for-the-badge&logo=google-maps" height="25" />
+</a>
+</span>
+
 #
 
 ### 최근 진행한 프로젝트들 🤹🏻‍♀️
@@ -134,11 +146,8 @@
   </tbody>
 </table>
 
-<p>
-  
-  
-  
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **baebaemin/baebaemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
