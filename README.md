@@ -57,19 +57,15 @@
 
 #
 
-<p align="left">
-  
+<p>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebaemin&hide=jupyter%20notebook,java&layout=compact&theme=dark" style="height: 180px;"/>
   </a>
-
- 
   
   <a href="https://solved.ac/hellobaemin/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hellobaemin" style="height: 180px;"/>
   </a>
-
-   <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" style="height: 180px; "/>
 
 </p>
 
