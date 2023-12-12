@@ -1,7 +1,7 @@
 ### 안녕하세요, 프론트엔드 개발자 배민경입니다 👋
 
-새로운 기술을 배울 땐 설레는 마음으로 학습하며, 혼자보다 주변 사람들과 함께 성장하는 경험을 소중히 여깁니다. 🤼</br>
-전공 경험으로 갖춘 UX/UI 디자인 역량을 바탕으로, 단순 기능 구현만이 아닌 스크린 너머의 사용자 경험을 늘 함께 고민합니다. 🤔</br>
+새로운 기술을 배울 땐 설레는 마음으로 학습하며, 혼자보다 주변 사람들과 함께 성장하는 경험을 소중히 여깁니다. 🤼<br/>
+전공 경험으로 갖춘 UX/UI 디자인 역량을 바탕으로, 단순 기능 구현만이 아닌 스크린 너머의 사용자 경험을 늘 함께 고민합니다. 🤔<br/>
 현재, 삼성 청년 SW 아카데미에서 실무 & 협업 기반의 다양한 프로젝트들을 진행하면서 매일매일 도전하고 있습니다! 🥁
 
 #
@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/-Processing-202020?style=for-the-badge&logo=processingfoundation" height="30" />
 </span>
 
-</br>
-
 ### ✨ 자주 활용하는 라이브러리 & 프레임워크
 <span>
   <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="30" />
@@ -27,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Styled_Components-202020?style=for-the-badge&logo=styledcomponents" height="30" />
 </span>
 
-<br>
+#
 
 ### ✨ 활용 가능한 라이브러리 & 프레임워크
 <span>
@@ -59,9 +57,21 @@
 
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebaemin&hide=jupyter%20notebook,java&layout=compact&theme=dark" style="width: 40%;" />
-</a>
+<p align="left">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebaemin&hide=jupyter%20notebook,java&layout=compact&theme=dark" style="height: 180px;"/>
+  </a>
+
+ 
+  
+  <a href="https://solved.ac/hellobaemin/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hellobaemin" style="height: 180px;"/>
+  </a>
+
+   <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" style="height: 180px; "/>
+
+</p>
 
 #
 
