@@ -5,15 +5,15 @@
 현재, 삼성 청년 SW 아카데미에서 실무 & 협업 기반의 다양한 프로젝트들을 진행하면서 매일매일 도전하고 있습니다! 🥁
 
 <span>
-	<a href="mailto:hellobaemin@gmail.com" style="text-decoration: none; color: inherit;">
-		<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
-	</a>
-	<a href="https://open.spotify.com/user/317s6l4heegjzjjltnsjpudvjjau" style="text-decoration: none; color: inherit;">
-	  <img src="https://img.shields.io/badge/-Spotify-202020?style=for-the-badge&logo=spotify" height="25" />
-	</a>
-	<a href="https://maps.app.goo.gl/F3i8o9Wbp9Ae79e68" style="text-decoration: none; color: inherit;">
-	  <img src="https://img.shields.io/badge/-location-202020?style=for-the-badge&logo=google-maps" height="25" />
-	</a>
+<a href="mailto:hellobaemin@gmail.com" style="text-decoration: none; color: inherit;">
+	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
+</a>
+<a href="https://open.spotify.com/user/317s6l4heegjzjjltnsjpudvjjau" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/-Spotify-202020?style=for-the-badge&logo=spotify" height="25" />
+</a>
+<a href="https://maps.app.goo.gl/F3i8o9Wbp9Ae79e68" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/-location-202020?style=for-the-badge&logo=google-maps" height="25" />
+</a>
 </span>
 
 #
