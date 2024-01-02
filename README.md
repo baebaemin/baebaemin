@@ -30,25 +30,25 @@
   </thead>
   <tbody>
     <tr>
-      <td>스마트홈 어플리케이션 🔔 <a href="https://chemical-tungsten-1ba.notion.site/ThingDong-74132b23c18546a694a08ac12952dc8d?pvs=4" style="color: white;"><b>ThingDong 띵동</b></a></td>
+      <td>스마트홈 어플리케이션 🔔 <a href="https://chemical-tungsten-1ba.notion.site/ThingDong-0a4a72cc2d144a5cac7f571681b63fcd?pvs=4" style="color: white;"><b>ThingDong 띵동</b></a></td>
       <td>프론트엔드 팀 리더</td>
       <td>2023.10.10 ~ 11.17</td>
       <td>SSAFY 자율 프로젝트 우수상 🥈</td>
     </tr>
 	  <tr>
-      <td>오토체인징 페이먼츠 🐧 <a href="https://chemical-tungsten-1ba.notion.site/COCO-PAY-be7bb35760704a419cd9f1d15f17fcb2?pvs=4"><b>COCOPAY 코코페이</b> </a></td>
+      <td>오토체인징 페이먼츠 🐧 <a href="https://chemical-tungsten-1ba.notion.site/COCOPAY-880a748e0108434ebb2a7699f4a7190d?pvs=4"><b>COCOPAY 코코페이</b> </a></td>
       <td>팀 리더, 프론트엔드 팀 리더</td>
       <td>2023.08.28 ~ 10.15</td>
       <td>SSAFY 특화 프로젝트 최우수상 🥇</td>
     </tr>
     <tr>
-      <td>육아일기 어플리케이션 👶🏻 <a href="https://chemical-tungsten-1ba.notion.site/SONAGI-74ae1cb5fa68427f9619ad06d7ad5e57?pvs=4"> <b>SONAGI 소나기</b></a></td>
+      <td>육아일기 어플리케이션 👶🏻 <a href="https://chemical-tungsten-1ba.notion.site/SONAGI-1368adb451fb46d1888396aa479d4686?pvs=4"> <b>SONAGI 소나기</b></a></td>
       <td>프론트엔드 개발자</td>
       <td>2023.07.03 ~ 08.18</td>
       <td></td>
     </tr>
       <tr>
-      <td>영화 추천 인터랙티브 웹 🧙🏼‍♀️ <a href="https://github.com/baebaemin/Witch_Which"> <b>Witch Which</b></a></td>
+      <td>영화 추천 인터랙티브 웹 🧙🏼‍♀️ <a href="https://chemical-tungsten-1ba.notion.site/WitchWhich-4ab43773f5f14123bb57b0b59f517f6e?pvs=4"> <b>Witch Which</b></a></td>
       <td>팀 리더, 프론트엔드 개발자</td>
       <td>2023.05.15 ~ 05.25</td>
       <td></td>
