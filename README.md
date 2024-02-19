@@ -2,7 +2,7 @@
 
 새로운 기술을 배울 땐 설레는 마음으로 학습하며, 혼자보다 주변 사람들과 함께 성장하는 경험을 소중히 여깁니다. 🤼<br/>
 전공 경험으로 갖춘 UX/UI 디자인 역량을 바탕으로, 단순 기능 구현만이 아닌 스크린 너머의 사용자 경험을 늘 함께 고민합니다. 🤔<br/>
-현재, 사람인 IT연구소 FE개발팀에서 일잘러 주니어 디벨로퍼가 되기 위해 매일매일 배워나가고 있습니다! 🥁
+현재 사람인 IT연구소 FE개발팀에서 일잘러 주니어 디벨로퍼가 되기 위해 매일매일 배워나가고 있습니다! 🥁
 
 <span>
 <a href="mailto:hellobaemin@gmail.com" style="text-decoration: none; color: inherit;">
@@ -69,19 +69,21 @@
 	 <tbody>
 		 <tr>
 			<td>
-				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
 				<img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" />
+				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
 				<img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=html5" height="25" />
 				<img src="https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3" height="25" />
+				<img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
 				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 				<img src="https://img.shields.io/badge/-Processing-202020?style=for-the-badge&logo=processingfoundation" height="25" />
 			</td>
 			<td>
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
+			  <img src="https://img.shields.io/badge/-Vue.js-202020?style=for-the-badge&logo=vue.js" height="25" />
 			  <img src="https://img.shields.io/badge/-Recoil-202020?style=for-the-badge&logo=recoil" height="25" />
 			  <img src="https://img.shields.io/badge/-React_Query-202020?style=for-the-badge&logo=reactquery" height="25" />
-			  <img src="https://img.shields.io/badge/-React_Router-202020?style=for-the-badge&logo=reactrouter" height="25" />
 			  <img src="https://img.shields.io/badge/-Styled_Components-202020?style=for-the-badge&logo=styledcomponents" height="25" />
+			  <img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -97,12 +99,11 @@
  <tbody>
 	 <tr>
 		<td>
-		  <img src="https://img.shields.io/badge/-Vue.js-202020?style=for-the-badge&logo=vue.js" height="25" />
 		  <img src="https://img.shields.io/badge/-React_Native-202020?style=for-the-badge&logo=react" height="25" />
+		  <img src="https://img.shields.io/badge/-Nuxt.js-202020?style=for-the-badge&logo=nuxt.js" height="25" />
 		  <img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="25" />
 		  <img src="https://img.shields.io/badge/-R3F-202020?style=for-the-badge&logo=three.js" height="25" />
 		  <img src="https://img.shields.io/badge/-Jotai-202020?style=for-the-badge&logo=jotai" height="25" />
-		  <img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
 		  <img src="https://img.shields.io/badge/-p5.js-202020?style=for-the-badge&logo=p5.js" height="25" />  
 		  <img src="https://img.shields.io/badge/-Shader_Park-202020?style=for-the-badge" height="25" />
 		  <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="25" />
