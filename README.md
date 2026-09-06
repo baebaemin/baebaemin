@@ -15,10 +15,16 @@ hellobaemin@gmail.com
   </thead>
   <tbody>
 	<tr>
-      <td>더 나은 채용의 시작 💼 <a href="https://hiring.saramin.co.kr/home" style="color: white;"><b>사람인 채용센터</b></a></td>
+      <td>스마트한 건설 현장 인력 관리 🏭 <a href="https://goodbuilder.saramin.co.kr/home"><b>굿빌더</b></a></td>
+      <td>프론트엔드 개발자</td>
+      <td>2025.11 ~ 2026.08</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>더 나은 채용의 시작 💼 <a href="https://hiring.saramin.co.kr/home"><b>사람인 채용센터</b></a></td>
       <td>프론트엔드 개발자</td>
       <td>2024.07 ~ 2025.07</td>
-      <td><a href="https://www.behance.net/gallery/229253729/-%28Saramin-ATS%29">behance</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>스마트홈 어플리케이션 🔔 <a href="https://chemical-tungsten-1ba.notion.site/ThingDong-0a4a72cc2d144a5cac7f571681b63fcd?pvs=4" style="color: white;"><b>ThingDong 띵동</b></a></td>
